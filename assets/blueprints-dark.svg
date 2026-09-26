@@ -1,0 +1,1065 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Blueprints: 20 systems I can design, each with its inputs, stack, and outputs. Connected fleet; Self-testing cloud; Agent operations desk; OTA release train; Agent-to-agent API; Live telemetry; Knowledge copilot; Event-driven store; Clinic booking; Multi-tenant SaaS; Solar microgrid; Farm autopilot; Inbox to ERP; Shipment radar; Research swarm; Edge vision; Zero-trust access; Data lake and SQL agent; Offline-first mobile; Agent evals and tracing.">
+<!-- Fonts: Geist and Geist Mono, SIL Open Font License 1.1 (see licenses/). -->
+<title>Blueprints: 20 systems I can design, each with its inputs, stack, and outputs. Connected fleet; Self-testing cloud; Agent operations desk; OTA release train; Agent-to-agent API; Live telemetry; Knowledge copilot; Event-driven store; Clinic booking; Multi-tenant SaaS; Solar microgrid; Farm autopilot; Inbox to ERP; Shipment radar; Research swarm; Edge vision; Zero-trust access; Data lake and SQL agent; Offline-first mobile; Agent evals and tracing.</title>
+<style>@font-face{font-family:MNLight;src:url(data:font/woff2;base64,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) format('woff2')}.light{font-family:MNLight,system-ui,sans-serif;font-weight:300}@font-face{font-family:MNRegular;src:url(data:font/woff2;base64,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) format('woff2')}.regular{font-family:MNRegular,system-ui,sans-serif;font-weight:400}@font-face{font-family:MNMono;src:url(data:font/woff2;base64,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) format('woff2')}.mono{font-family:MNMono,ui-monospace,monospace;font-weight:400}@font-face{font-family:MNMonoM;src:url(data:font/woff2;base64,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) format('woff2')}.monom{font-family:MNMonoM,ui-monospace,monospace;font-weight:500}.ic{fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}.fl{stroke-dasharray:3 9;animation:fl 1.4s linear infinite}@keyframes fl{to{stroke-dashoffset:-12}}@keyframes bp0{0%{opacity:0;transform:translateY(18px)}0.38%,4.62%{opacity:1;transform:translateY(0)}5.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp0{opacity:1;transform-box:fill-box;transform-origin:center;animation:bp0 130.0s linear infinite}@keyframes bp1{0%,5.00%{opacity:0;transform:translateY(18px)}5.38%,9.62%{opacity:1;transform:translateY(0)}10.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp1{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp1 130.0s linear infinite}@keyframes bp2{0%,10.00%{opacity:0;transform:translateY(18px)}10.38%,14.62%{opacity:1;transform:translateY(0)}15.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp2{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp2 130.0s linear infinite}@keyframes bp3{0%,15.00%{opacity:0;transform:translateY(18px)}15.38%,19.62%{opacity:1;transform:translateY(0)}20.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp3{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp3 130.0s linear infinite}@keyframes bp4{0%,20.00%{opacity:0;transform:translateY(18px)}20.38%,24.62%{opacity:1;transform:translateY(0)}25.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp4{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp4 130.0s linear infinite}@keyframes bp5{0%,25.00%{opacity:0;transform:translateY(18px)}25.38%,29.62%{opacity:1;transform:translateY(0)}30.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp5{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp5 130.0s linear infinite}@keyframes bp6{0%,30.00%{opacity:0;transform:translateY(18px)}30.38%,34.62%{opacity:1;transform:translateY(0)}35.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp6{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp6 130.0s linear infinite}@keyframes bp7{0%,35.00%{opacity:0;transform:translateY(18px)}35.38%,39.62%{opacity:1;transform:translateY(0)}40.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp7{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp7 130.0s linear infinite}@keyframes bp8{0%,40.00%{opacity:0;transform:translateY(18px)}40.38%,44.62%{opacity:1;transform:translateY(0)}45.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp8{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp8 130.0s linear infinite}@keyframes bp9{0%,45.00%{opacity:0;transform:translateY(18px)}45.38%,49.62%{opacity:1;transform:translateY(0)}50.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp9{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp9 130.0s linear infinite}@keyframes bp10{0%,50.00%{opacity:0;transform:translateY(18px)}50.38%,54.62%{opacity:1;transform:translateY(0)}55.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp10{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp10 130.0s linear infinite}@keyframes bp11{0%,55.00%{opacity:0;transform:translateY(18px)}55.38%,59.62%{opacity:1;transform:translateY(0)}60.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp11{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp11 130.0s linear infinite}@keyframes bp12{0%,60.00%{opacity:0;transform:translateY(18px)}60.38%,64.62%{opacity:1;transform:translateY(0)}65.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp12{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp12 130.0s linear infinite}@keyframes bp13{0%,65.00%{opacity:0;transform:translateY(18px)}65.38%,69.62%{opacity:1;transform:translateY(0)}70.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp13{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp13 130.0s linear infinite}@keyframes bp14{0%,70.00%{opacity:0;transform:translateY(18px)}70.38%,74.62%{opacity:1;transform:translateY(0)}75.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp14{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp14 130.0s linear infinite}@keyframes bp15{0%,75.00%{opacity:0;transform:translateY(18px)}75.38%,79.62%{opacity:1;transform:translateY(0)}80.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp15{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp15 130.0s linear infinite}@keyframes bp16{0%,80.00%{opacity:0;transform:translateY(18px)}80.38%,84.62%{opacity:1;transform:translateY(0)}85.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp16{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp16 130.0s linear infinite}@keyframes bp17{0%,85.00%{opacity:0;transform:translateY(18px)}85.38%,89.62%{opacity:1;transform:translateY(0)}90.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp17{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp17 130.0s linear infinite}@keyframes bp18{0%,90.00%{opacity:0;transform:translateY(18px)}90.38%,94.62%{opacity:1;transform:translateY(0)}95.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp18{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp18 130.0s linear infinite}@keyframes bp19{0%,95.00%{opacity:0;transform:translateY(18px)}95.38%,99.62%{opacity:1;transform:translateY(0)}100.00%,100%{opacity:0;transform:translateY(-14px) scale(.985)}}.bp19{opacity:0;transform-box:fill-box;transform-origin:center;animation:bp19 130.0s linear infinite}@keyframes tk0{0%,0.00%{fill:#283241}0.00%,4.99%{fill:#2CC5E3}5.00%,100%{fill:#283241}}.tk0{fill:#2CC5E3;animation:tk0 130.0s linear infinite}@keyframes tk1{0%,4.99%{fill:#283241}5.00%,9.99%{fill:#2CC5E3}10.00%,100%{fill:#283241}}.tk1{fill:#283241;animation:tk1 130.0s linear infinite}@keyframes tk2{0%,9.99%{fill:#283241}10.00%,14.99%{fill:#2CC5E3}15.00%,100%{fill:#283241}}.tk2{fill:#283241;animation:tk2 130.0s linear infinite}@keyframes tk3{0%,14.99%{fill:#283241}15.00%,19.99%{fill:#2CC5E3}20.00%,100%{fill:#283241}}.tk3{fill:#283241;animation:tk3 130.0s linear infinite}@keyframes tk4{0%,19.99%{fill:#283241}20.00%,24.99%{fill:#2CC5E3}25.00%,100%{fill:#283241}}.tk4{fill:#283241;animation:tk4 130.0s linear infinite}@keyframes tk5{0%,24.99%{fill:#283241}25.00%,29.99%{fill:#2CC5E3}30.00%,100%{fill:#283241}}.tk5{fill:#283241;animation:tk5 130.0s linear infinite}@keyframes tk6{0%,29.99%{fill:#283241}30.00%,34.99%{fill:#2CC5E3}35.00%,100%{fill:#283241}}.tk6{fill:#283241;animation:tk6 130.0s linear infinite}@keyframes tk7{0%,34.99%{fill:#283241}35.00%,39.99%{fill:#2CC5E3}40.00%,100%{fill:#283241}}.tk7{fill:#283241;animation:tk7 130.0s linear infinite}@keyframes tk8{0%,39.99%{fill:#283241}40.00%,44.99%{fill:#2CC5E3}45.00%,100%{fill:#283241}}.tk8{fill:#283241;animation:tk8 130.0s linear infinite}@keyframes tk9{0%,44.99%{fill:#283241}45.00%,49.99%{fill:#2CC5E3}50.00%,100%{fill:#283241}}.tk9{fill:#283241;animation:tk9 130.0s linear infinite}@keyframes tk10{0%,49.99%{fill:#283241}50.00%,54.99%{fill:#2CC5E3}55.00%,100%{fill:#283241}}.tk10{fill:#283241;animation:tk10 130.0s linear infinite}@keyframes tk11{0%,54.99%{fill:#283241}55.00%,59.99%{fill:#2CC5E3}60.00%,100%{fill:#283241}}.tk11{fill:#283241;animation:tk11 130.0s linear infinite}@keyframes tk12{0%,59.99%{fill:#283241}60.00%,64.99%{fill:#2CC5E3}65.00%,100%{fill:#283241}}.tk12{fill:#283241;animation:tk12 130.0s linear infinite}@keyframes tk13{0%,64.99%{fill:#283241}65.00%,69.99%{fill:#2CC5E3}70.00%,100%{fill:#283241}}.tk13{fill:#283241;animation:tk13 130.0s linear infinite}@keyframes tk14{0%,69.99%{fill:#283241}70.00%,74.99%{fill:#2CC5E3}75.00%,100%{fill:#283241}}.tk14{fill:#283241;animation:tk14 130.0s linear infinite}@keyframes tk15{0%,74.99%{fill:#283241}75.00%,79.99%{fill:#2CC5E3}80.00%,100%{fill:#283241}}.tk15{fill:#283241;animation:tk15 130.0s linear infinite}@keyframes tk16{0%,79.99%{fill:#283241}80.00%,84.99%{fill:#2CC5E3}85.00%,100%{fill:#283241}}.tk16{fill:#283241;animation:tk16 130.0s linear infinite}@keyframes tk17{0%,84.99%{fill:#283241}85.00%,89.99%{fill:#2CC5E3}90.00%,100%{fill:#283241}}.tk17{fill:#283241;animation:tk17 130.0s linear infinite}@keyframes tk18{0%,89.99%{fill:#283241}90.00%,94.99%{fill:#2CC5E3}95.00%,100%{fill:#283241}}.tk18{fill:#283241;animation:tk18 130.0s linear infinite}@keyframes tk19{0%,94.99%{fill:#283241}95.00%,99.99%{fill:#2CC5E3}100.00%,100%{fill:#283241}}.tk19{fill:#283241;animation:tk19 130.0s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}.sig{visibility:hidden}}</style>
+<defs><clipPath id="card"><rect width="1200" height="640" rx="14"/></clipPath><pattern id="minor" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0V24H0" fill="none" stroke="#1A222C" stroke-width="1"/></pattern><pattern id="major" width="120" height="120" patternUnits="userSpaceOnUse"><rect width="120" height="120" fill="url(#minor)"/><path d="M120 0V120H0" fill="none" stroke="#283241" stroke-width="1"/></pattern><linearGradient id="fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0.3" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient><mask id="fadeMask"><rect width="1200" height="640" fill="url(#fade)"/></mask></defs>
+<rect x="0.75" y="0.75" width="1198.5" height="638.5" rx="14" fill="#10151C" stroke="#283241" stroke-width="1.5"/>
+<rect width="1200" height="640" fill="url(#major)" mask="url(#fadeMask)" clip-path="url(#card)"/>
+<path d="M16 22H28M22 16V28M1172 22H1184M1178 16V28M16 618H28M22 612V624M1172 618H1184M1178 612V624" stroke="#8D98A5" stroke-width="1.2" fill="none"/>
+<text x="60.0" y="56.0" class="monom" font-size="13" fill="#2CC5E3" text-anchor="start" letter-spacing="3">BLUEPRINTS · SYSTEMS I CAN DESIGN</text>
+<text x="1140.0" y="56.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">INPUTS → STACK → OUTPUTS</text>
+<rect x="84" y="76" width="1032" height="512" rx="12" fill="#10151C" stroke="#8D98A5" stroke-width="1.2" stroke-opacity="0.20"/>
+<rect x="62" y="87" width="1076" height="512" rx="12" fill="#10151C" stroke="#8D98A5" stroke-width="1.2" stroke-opacity="0.35"/>
+<rect x="40" y="98" width="1120" height="512" rx="12" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<defs><clipPath id="front"><rect x="40" y="98" width="1120" height="512" rx="12"/></clipPath></defs>
+<g clip-path="url(#front)">
+<g class="bp0">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Connected fleet</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Devices report state in real time; phones and agents read it and send commands back.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 01 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · FLEET</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M600.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M600.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Devices</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">ESP32 · MQTT</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Mobile apps</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">iOS · Android</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 35H33A8 8 0 0 0 33.5 19A10.5 10.5 0 0 0 13.6 21.5A6.8 6.8 0 0 0 15 35Z"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">IoT Core</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">MQTT broker</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Lambda</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Python</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><polygon points="24.0,8.0 37.9,16.0 37.9,32.0 24.0,40.0 10.1,32.0 10.1,16.0"/><circle cx="24" cy="24" r="4.5"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">AppSync</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">GraphQL live</text>
+<rect x="538.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="550.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">DynamoDB</text>
+<text x="550.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">state · history</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Mobile apps</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">live status</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">AI agents</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Claude · MCP</text>
+</g>
+<g class="bp1">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Self-testing cloud</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Agents break the system on a schedule, measure the fall, and page a human before users notice.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 02 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · CHAOS</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V270H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V270H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V362H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V362H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V454H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V454H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M814.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M814.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Test agents</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Claude · scripts</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="24" r="16"/><path d="M24 14V24L31 28"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Scheduler</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">EventBridge</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M19 7H29M21 7V19L11 37A3 3 0 0 0 13.6 41.5H34.4A3 3 0 0 0 37 37L27 19V7"/><path d="M15 31H33"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Fault inject</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">AWS FIS</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L40 14V34L24 42L8 34V14Z"/><path d="M8 14L24 22L40 14M24 22V42"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Target stack</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">prod clone</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Observe</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">CloudWatch</text>
+<rect x="752.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Findings</text>
+<text x="764.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">DynamoDB</text>
+<rect x="966.0" y="231.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 242.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="283.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">On-call</text>
+<text x="978.0" y="299.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">push · SMS</text>
+<rect x="966.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Triage agent</text>
+<text x="978.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">root cause</text>
+<rect x="966.0" y="415.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 426.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="467.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Status page</text>
+<text x="978.0" y="483.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">public</text>
+</g>
+<g class="bp2">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Agent operations desk</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">An AI agent signs in like a teammate and runs internal tools with the same permissions as people.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 03 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · OPS</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M814.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M814.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Planner agent</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Claude Code</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Team</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">web portal</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L38 12V22C38 32 31 38 24 42C17 38 10 32 10 22V12Z"/><path d="M18 24L22.5 28.5L30.5 20"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cognito</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SRP · groups</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><polygon points="24.0,8.0 37.9,16.0 37.9,32.0 24.0,40.0 10.1,32.0 10.1,16.0"/><circle cx="24" cy="24" r="4.5"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">AppSync</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">GraphQL API</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Lambda</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">rules</text>
+<rect x="752.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M13 6H29L37 14V42H13Z"/><path d="M29 6V14H37M18 23H32M18 29H32M18 35H27"/></g>
+<text x="764.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Audit log</text>
+<text x="764.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">DynamoDB</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Portal</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">boards · reports</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Team</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">notifications</text>
+</g>
+<g class="bp3">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">OTA release train</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Signed firmware moves from CI to the fleet in waves, with health checks and rollback at every step.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 04 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · RELEASE</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="14" cy="11" r="4"/><circle cx="14" cy="37" r="4"/><circle cx="34" cy="18" r="4"/><path d="M14 15V33M34 22C34 30 22 27 16.5 34"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">CI pipeline</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">GitHub</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Sign &amp; scan</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Lambda</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Artifacts</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3 versioned</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 35H33A8 8 0 0 0 33.5 19A10.5 10.5 0 0 0 13.6 21.5A6.8 6.8 0 0 0 15 35Z"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">IoT Jobs</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">rollout waves</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Devices</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">canary · fleet</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Rollout board</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">success rate</text>
+</g>
+<g class="bp4">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Agent-to-agent API</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">One company's agent negotiates with another's through a typed API and a tool manifest.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 05 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · A2A</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M814.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M814.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Buyer agent</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">any vendor</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">API Gateway</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">auth · limits</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><polygon points="24.0,8.0 37.9,16.0 37.9,32.0 24.0,40.0 10.1,32.0 10.1,16.0"/><circle cx="24" cy="24" r="4.5"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">MCP server</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">tool manifest</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Lambda</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Python</text>
+<rect x="752.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Ledger</text>
+<text x="764.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">DynamoDB</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Seller agent</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Claude</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="5" y="18" width="21" height="12" rx="6"/><rect x="22" y="18" width="21" height="12" rx="6"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Webhooks</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">signed HMAC</text>
+</g>
+<g class="bp5">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Live telemetry</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Sensor streams turned into live dashboards and alerts within seconds.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 06 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · TELEMETRY</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 33A15 15 0 0 1 39 33"/><path d="M24 33L32 22"/><circle cx="24" cy="33" r="2.5"/><path d="M12 38H36"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Sensors</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">MQTT · HTTP</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Gateways</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">edge buffer</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M7 15C12 10 17 10 21 15S30 20 35 15S40 11 41 12"/><path d="M7 24C12 19 17 19 21 24S30 29 35 24S40 20 41 21"/><path d="M7 33C12 28 17 28 21 33S30 38 35 33S40 29 41 30"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Kinesis</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">streams</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Lambda</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">windowing</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Timestream</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">time series</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Dashboards</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Grafana</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Alerts</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">thresholds</text>
+</g>
+<g class="bp6">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Knowledge copilot</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Company documents become a private assistant that answers with sources.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 07 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · RAG</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M13 6H29L37 14V42H13Z"/><path d="M29 6V14H37M18 23H32M18 29H32M18 35H27"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Documents</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3 · Drive</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Employees</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">chat</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Ingest</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">chunk · embed</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M12 14L24 25M34 10L24 25M24 25L10 35M24 25L38 36M34 10L38 36"/><circle cx="12" cy="14" r="3"/><circle cx="34" cy="10" r="3"/><circle cx="24" cy="25" r="3"/><circle cx="10" cy="35" r="3"/><circle cx="38" cy="36" r="3"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Vector index</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">pgvector</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Claude</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">answers</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Chat app</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">with sources</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Agents</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">tool calls</text>
+</g>
+<g class="bp7">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Event-driven store</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Orders fan out as events: payment, stock, shipping, and email each react on their own.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 08 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · COMMERCE</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V270H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V270H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V362H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V362H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V454H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V454H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M386.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M386.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 18L12 8H36L40 18M8 18H40V40H8Z"/><path d="M18 40V28H30V40"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Web store</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Next.js</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Mobile app</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">checkout</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">API Gateway</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">REST</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M6 24H42M14 24V14M24 24V34M34 24V14"/><circle cx="14" cy="12" r="2.5"/><circle cx="24" cy="36" r="2.5"/><circle cx="34" cy="12" r="2.5"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">EventBridge</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">order events</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="10" y="10" width="28" height="7" rx="2"/><rect x="10" y="20.5" width="28" height="7" rx="2"/><rect x="10" y="31" width="28" height="7" rx="2"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">SQS</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">workers</text>
+<rect x="324.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="12" width="36" height="24" rx="3"/><path d="M6 19H42M12 29H20"/></g>
+<text x="336.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Stripe</text>
+<text x="336.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">webhooks</text>
+<rect x="966.0" y="231.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 242.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="7" y="12" width="34" height="24" rx="3"/><path d="M8 14L24 26L40 14"/></g>
+<text x="978.0" y="283.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Email</text>
+<text x="978.0" y="299.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SES</text>
+<rect x="966.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M5 13H28V32H5Z"/><path d="M28 19H36L42 25V32H28"/><circle cx="13" cy="34.5" r="3"/><circle cx="35" cy="34.5" r="3"/></g>
+<text x="978.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Warehouse</text>
+<text x="978.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">shipments</text>
+<rect x="966.0" y="415.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 426.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="467.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Analytics</text>
+<text x="978.0" y="483.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3 · Athena</text>
+</g>
+<g class="bp8">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Clinic booking</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Patients book, pay, and get reminders; each clinic sees only its own data.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 09 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">SUPABASE · HEALTH</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M600.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M600.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Patients</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">web · mobile</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">API</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Next.js</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Postgres</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">row-level sec.</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="24" r="16"/><path d="M24 14V24L31 28"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cron</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">reminders</text>
+<rect x="538.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="12" width="36" height="24" rx="3"/><path d="M6 19H42M12 29H20"/></g>
+<text x="550.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Stripe</text>
+<text x="550.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">webhooks</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Clinic portal</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">own data only</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="7" y="12" width="34" height="24" rx="3"/><path d="M8 14L24 26L40 14"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Reminders</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">email · SMS</text>
+</g>
+<g class="bp9">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Multi-tenant SaaS</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Containerized services that scale per tenant, with isolated data and zero-downtime deploys.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 10 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">EKS · PLATFORM</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M814.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M814.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Web clients</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">tenants</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Partners</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">REST API</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="24" r="16"/><ellipse cx="24" cy="24" rx="7" ry="16"/><path d="M8 24H40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="15.5" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Load balancer</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">routing</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="24" r="14"/><circle cx="24" cy="24" r="5"/><path d="M24.0 19.0L24.0 5.0M27.9 20.9L38.9 12.2M28.9 25.1L42.5 28.2M26.2 28.5L32.2 41.1M21.8 28.5L15.8 41.1M19.1 25.1L5.5 28.2M20.1 20.9L9.1 12.2"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Kubernetes</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">EKS</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L40 14V34L24 42L8 34V14Z"/><path d="M8 14L24 22L40 14M24 22V42"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Services</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">containers</text>
+<rect x="752.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Postgres</text>
+<text x="764.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">per tenant</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Tenant apps</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">white label</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Metrics</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">per tenant</text>
+</g>
+<g class="bp10">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Solar microgrid</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Inverters and meters report every minute; a model forecasts demand and balances the batteries.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 11 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · ENERGY</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="24" r="8"/><path d="M36.0 29.0L41.6 31.3M29.0 36.0L31.3 41.6M19.0 36.0L16.7 41.6M12.0 29.0L6.4 31.3M12.0 19.0L6.4 16.7M19.0 12.0L16.7 6.4M29.0 12.0L31.3 6.4M36.0 19.0L41.6 16.7"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Inverters</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Modbus · MQTT</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 33A15 15 0 0 1 39 33"/><path d="M24 33L32 22"/><circle cx="24" cy="33" r="2.5"/><path d="M12 38H36"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Meters</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">kWh</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 35H33A8 8 0 0 0 33.5 19A10.5 10.5 0 0 0 13.6 21.5A6.8 6.8 0 0 0 15 35Z"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">IoT Core</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">ingest</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Forecast</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Python model</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M27 6L12 27H23L20 42L36 20H25Z"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Balancer</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">rules engine</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Owner app</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">live energy</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Batteries</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">charge plan</text>
+</g>
+<g class="bp11">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Farm autopilot</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Sensors and cameras watch the crop; the system adjusts light, water, and climate on its own.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 12 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · AGRO</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 33A15 15 0 0 1 39 33"/><path d="M24 33L32 22"/><circle cx="24" cy="33" r="2.5"/><path d="M12 38H36"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Sensors</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">climate · pH</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="7" y="14" width="34" height="23" rx="4"/><circle cx="24" cy="25.5" r="6"/><path d="M17 14L20 9H28L31 14"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cameras</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">canopy</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Edge node</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Greengrass</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 35H33A8 8 0 0 0 33.5 19A10.5 10.5 0 0 0 13.6 21.5A6.8 6.8 0 0 0 15 35Z"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">IoT Core</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">shadows</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Control</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">PID · rules</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M24 40V25"/><path d="M24 31C16 31 12 25 12 20C19 20 24 24 24 31Z"/><path d="M24 26C24 18 29 13 37 13C37 21 31 26 24 26Z"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Actuators</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">light · water</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Grower app</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">alerts</text>
+</g>
+<g class="bp12">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Inbox to ERP</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Invoices arrive by email; an agent extracts the data, a human approves, and the ERP gets it.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 13 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · DOCS</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M386.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M386.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="7" y="12" width="34" height="24" rx="3"/><path d="M8 14L24 26L40 14"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Inbound mail</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SES</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Parse</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">attachments</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Claude</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">structured out</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Review</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">human in loop</text>
+<rect x="324.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="336.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Archive</text>
+<text x="336.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="5" y="18" width="21" height="12" rx="6"/><rect x="22" y="18" width="21" height="12" rx="6"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">ERP</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">webhook</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Reports</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">monthly</text>
+</g>
+<g class="bp13">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Shipment radar</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Carrier updates stream in; the team chasing each box hears the moment it moves.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 14 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · LOGISTICS</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M814.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M814.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M5 13H28V32H5Z"/><path d="M28 19H36L42 25V32H28"/><circle cx="13" cy="34.5" r="3"/><circle cx="35" cy="34.5" r="3"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Carriers</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">tracking APIs</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="5" y="18" width="21" height="12" rx="6"/><rect x="22" y="18" width="21" height="12" rx="6"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Webhooks</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">push events</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">API Gateway</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">/hook</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M6 24H42M14 24V14M24 24V34M34 24V14"/><circle cx="14" cy="12" r="2.5"/><circle cx="24" cy="36" r="2.5"/><circle cx="34" cy="12" r="2.5"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">EventBridge</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">hourly tick</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 10H20L34 38M25.5 20.5L15 38"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Lambda</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">normalize</text>
+<rect x="752.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">DynamoDB</text>
+<text x="764.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">event history</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Team alerts</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">per group</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Mobile app</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">live rail</text>
+</g>
+<g class="bp14">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Research swarm</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">An orchestrator splits a question across parallel agents; a verifier checks every claim.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 15 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · AGENTS</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M600.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M600.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Analyst</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">question</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Upstream agent</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">task</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Orchestrator</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">plan</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Workers</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">in parallel</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L38 12V22C38 32 31 38 24 42C17 38 10 32 10 22V12Z"/><path d="M18 24L22.5 28.5L30.5 20"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Verifier</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">adversarial</text>
+<rect x="538.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="550.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Evidence</text>
+<text x="550.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M13 6H29L37 14V42H13Z"/><path d="M29 6V14H37M18 23H32M18 29H32M18 35H27"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Report</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">cited</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Next agent</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">handoff</text>
+</g>
+<g class="bp15">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Edge vision</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Cameras detect events on the device; only the clips that matter reach the cloud and the phone.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 16 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · VISION</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="7" y="14" width="34" height="23" rx="4"/><circle cx="24" cy="25.5" r="6"/><path d="M17 14L20 9H28L31 14"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cameras</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">ESP32-S3</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">On-device</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">inference</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 35H33A8 8 0 0 0 33.5 19A10.5 10.5 0 0 0 13.6 21.5A6.8 6.8 0 0 0 15 35Z"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">IoT Core</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">events</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Clips</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Security app</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">push</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Summary agent</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">daily digest</text>
+</g>
+<g class="bp16">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Zero-trust access</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">People and machine accounts get least-privilege access; every action lands in an audit trail.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 17 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · IDENTITY</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M600.0 401.0V431.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M600.0 401.0V431.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="24" cy="15" r="7"/><path d="M11 41C11 31 17 26 24 26C31 26 37 31 37 41"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Employees</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SSO</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Service agents</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">robot accounts</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L38 12V22C38 32 31 38 24 42C17 38 10 32 10 22V12Z"/><path d="M18 24L22.5 28.5L30.5 20"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cognito</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">groups · tiers</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M9 40V16L24 8L39 16V40M17 40V26H31V40"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Authorizers</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">API Gateway</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="11" y="21" width="26" height="19" rx="3"/><path d="M17 21V15A7 7 0 0 1 31 15V21M24 29V33"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Secrets</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Manager · SSM</text>
+<rect x="538.0" y="431.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 442.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M13 6H29L37 14V42H13Z"/><path d="M29 6V14H37M18 23H32M18 29H32M18 35H27"/></g>
+<text x="550.0" y="483.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Audit trail</text>
+<text x="550.0" y="499.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">CloudTrail</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="6" y="10" width="36" height="28" rx="3"/><path d="M6 17H42"/><circle cx="11" cy="13.5" r="0.8"/><circle cx="15" cy="13.5" r="0.8"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Internal apps</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">scoped</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Security</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">anomalies</text>
+</g>
+<g class="bp17">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Data lake and SQL agent</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Every app writes to one lake; an agent answers business questions in plain language.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 18 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · DATA</text>
+<path d="M234 270H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 270H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 454H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 454H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="231.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 242.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="76.0" y="283.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Apps</text>
+<text x="76.0" y="299.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">events</text>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="14" y="14" width="20" height="20" rx="3"/><circle cx="24" cy="24" r="3.5"/><path d="M19 8V14M19 34V40M8 19H14M34 19H40M24 8V14M24 34V40M8 24H14M34 24H40M29 8V14M29 34V40M8 29H14M34 29H40"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Devices</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">telemetry</text>
+<rect x="64.0" y="415.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 426.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="5" y="18" width="21" height="12" rx="6"/><rect x="22" y="18" width="21" height="12" rx="6"/></g>
+<text x="76.0" y="467.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">SaaS APIs</text>
+<text x="76.0" y="483.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Stripe · Shopify</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M7 15C12 10 17 10 21 15S30 20 35 15S40 11 41 12"/><path d="M7 24C12 19 17 19 21 24S30 29 35 24S40 20 41 21"/><path d="M7 33C12 28 17 28 21 33S30 38 35 33S40 29 41 30"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Firehose</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">delivery</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Data lake</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">S3 · Glue</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="20" cy="20" r="11"/><path d="M28 28L40 40"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Athena</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SQL</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">BI dashboards</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">QuickSight</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">SQL agent</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">plain language</text>
+</g>
+<g class="bp18">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Offline-first mobile</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Phones keep working offline and sync when they reconnect; every user sees changes live.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 19 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · SYNC</text>
+<path d="M234 362H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 362H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="323.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="76.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Mobile apps</text>
+<text x="76.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">offline cache</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M24 6L38 12V22C38 32 31 38 24 42C17 38 10 32 10 22V12Z"/><path d="M18 24L22.5 28.5L30.5 20"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Cognito</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">auth</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><polygon points="24.0,8.0 37.9,16.0 37.9,32.0 24.0,40.0 10.1,32.0 10.1,16.0"/><circle cx="24" cy="24" r="4.5"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">AppSync</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">subscriptions</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">DynamoDB</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">conflict rules</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><rect x="15" y="7" width="18" height="34" rx="4"/><path d="M21.5 35.5H26.5"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Other users</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">live updates</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Push</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">SNS · FCM</text>
+</g>
+<g class="bp19">
+<text x="68.0" y="146.0" class="light" font-size="32" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.6">Agent evals and tracing</text>
+<text x="68.0" y="178.0" class="light" font-size="17" fill="#8D98A5" text-anchor="start">Every agent run is traced and scored, so a regression shows up before it ships.</text>
+<text x="1132.0" y="146.0" class="mono" font-size="12" fill="#8D98A5" text-anchor="end" letter-spacing="2">BLUEPRINT 20 / 20</text>
+<text x="64.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="3">INPUTS</text>
+<text x="1136.0" y="222.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="end" letter-spacing="3">OUTPUTS</text>
+<rect x="300" y="236" width="600" height="296" rx="10" fill="none" stroke="#283241" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="316.0" y="260.0" class="monom" font-size="11" fill="#2CC5E3" text-anchor="start" letter-spacing="2">CDK STACK · EVALS</text>
+<path d="M234 316H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 316H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M234 408H267V362H324.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M234 408H267V362H324.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M448.0 362H538.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M448.0 362H538.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M662.0 362H752.0" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M662.0 362H752.0" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V316H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V316H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<path d="M876.0 362H933V408H966" stroke="#283241" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M876.0 362H933V408H966" stroke="#2CC5E3" stroke-width="2" fill="none" stroke-linejoin="round" opacity=".9" class="fl"/>
+<rect x="64.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 288.0) scale(0.4583)" class="ic" style="color:#2CC5E3"><path d="M24 6C25.6 18.2 29.8 22.4 42 24C29.8 25.6 25.6 29.8 24 42C22.4 29.8 18.2 25.6 6 24C18.2 22.4 22.4 18.2 24 6Z"/></g>
+<text x="76.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Agents</text>
+<text x="76.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">prod · staging</text>
+<rect x="64.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(76.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><circle cx="14" cy="11" r="4"/><circle cx="14" cy="37" r="4"/><circle cx="34" cy="18" r="4"/><path d="M14 15V33M34 22C34 30 22 27 16.5 34"/></g>
+<text x="76.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Test suite</text>
+<text x="76.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">golden cases</text>
+<rect x="324.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(336.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="336.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Tracing</text>
+<text x="336.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">OpenTelemetry</text>
+<rect x="538.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(550.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M19 7H29M21 7V19L11 37A3 3 0 0 0 13.6 41.5H34.4A3 3 0 0 0 37 37L27 19V7"/><path d="M15 31H33"/></g>
+<text x="550.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Evaluator</text>
+<text x="550.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">LLM judge</text>
+<rect x="752.0" y="323.0" width="124" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(764.0 334.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><ellipse cx="24" cy="13" rx="12" ry="5"/><path d="M12 13V35A12 5 0 0 0 36 35V13M12 24A12 5 0 0 0 36 24"/></g>
+<text x="764.0" y="375.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Scores</text>
+<text x="764.0" y="391.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">Postgres</text>
+<rect x="966.0" y="277.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 288.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M8 40H40M14 34V26M22 34V14M30 34V20M38 34V29"/></g>
+<text x="978.0" y="329.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">Dashboard</text>
+<text x="978.0" y="345.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">quality trend</text>
+<rect x="966.0" y="369.0" width="170" height="78" rx="8" fill="#151B24" stroke="#283241" stroke-width="1.5"/>
+<g transform="translate(978.0 380.0) scale(0.4583)" class="ic" style="color:#E6EDF3"><path d="M15 33V22A9 9 0 0 1 33 22V33L36 37H12Z"/><path d="M21 40A3 3 0 0 0 27 40"/></g>
+<text x="978.0" y="421.0" class="regular" font-size="17" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.3">CI gate</text>
+<text x="978.0" y="437.0" class="mono" font-size="11" fill="#8D98A5" text-anchor="start" letter-spacing="0.5">blocks deploys</text>
+</g>
+</g>
+<rect x="363.0" y="584" width="18" height="4" rx="2" class="tk0"/>
+<rect x="387.0" y="584" width="18" height="4" rx="2" class="tk1"/>
+<rect x="411.0" y="584" width="18" height="4" rx="2" class="tk2"/>
+<rect x="435.0" y="584" width="18" height="4" rx="2" class="tk3"/>
+<rect x="459.0" y="584" width="18" height="4" rx="2" class="tk4"/>
+<rect x="483.0" y="584" width="18" height="4" rx="2" class="tk5"/>
+<rect x="507.0" y="584" width="18" height="4" rx="2" class="tk6"/>
+<rect x="531.0" y="584" width="18" height="4" rx="2" class="tk7"/>
+<rect x="555.0" y="584" width="18" height="4" rx="2" class="tk8"/>
+<rect x="579.0" y="584" width="18" height="4" rx="2" class="tk9"/>
+<rect x="603.0" y="584" width="18" height="4" rx="2" class="tk10"/>
+<rect x="627.0" y="584" width="18" height="4" rx="2" class="tk11"/>
+<rect x="651.0" y="584" width="18" height="4" rx="2" class="tk12"/>
+<rect x="675.0" y="584" width="18" height="4" rx="2" class="tk13"/>
+<rect x="699.0" y="584" width="18" height="4" rx="2" class="tk14"/>
+<rect x="723.0" y="584" width="18" height="4" rx="2" class="tk15"/>
+<rect x="747.0" y="584" width="18" height="4" rx="2" class="tk16"/>
+<rect x="771.0" y="584" width="18" height="4" rx="2" class="tk17"/>
+<rect x="795.0" y="584" width="18" height="4" rx="2" class="tk18"/>
+<rect x="819.0" y="584" width="18" height="4" rx="2" class="tk19"/>
+</svg>
